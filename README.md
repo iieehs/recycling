@@ -1,4 +1,4 @@
-# Recycling Project by IIEEHS
+# The Recycling project by IIEEHS
 
 1. [FAQ](https://github.com/iieehs/recycling/blob/main/FAQ.ru.md) [RU]
 2. [Papers issued since year of 2018](https://github.com/iieehs/recycling/tree/main/papers)
