@@ -1,4 +1,4 @@
-### Recycling Project by IIEEHS
+### The Recycling Project by IIEEHS
 
 Papers issued since year of 2018
 
