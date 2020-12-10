@@ -6,6 +6,8 @@ Papers issued since year of 2018
 
 * [Remir I. Solnitsev; Georgii A. Kupriianov. Computer-aided Design Issues for Recycling Infrastructure. IEEE Xplore](https://ieeexplore.ieee.org/document/9198788) [[SCM'2020](https://ieeexplore.ieee.org/xpl/conhome/9190004/proceeding)] [EN]
 
+* [More](http://iehs.ru/en)
+
 ### Рециклинг: проект МИИЭБЧ
 
 Публикации, начиная с 2018 года
