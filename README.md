@@ -1,3 +1,9 @@
+<p align="center">
+<img src="https://avatars1.githubusercontent.com/u/75343906?s=100&v=4">
+<br>
+The International Institute of Engineering in Environment and Human Safety (IEHS)
+</p>
+
 # The Recycling project by IIEEHS
 
 1. [FAQ](https://github.com/iieehs/recycling/blob/main/FAQ.ru.md) [RU]
