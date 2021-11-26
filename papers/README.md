@@ -8,8 +8,7 @@ Papers issued since year of 2018
 
 #### 2020 
 
-* [Georgii A. Kupriianov, Remir I. Solnitsev. On Software and Information Support for the Design and Operation of the Recycling Infrastructure
-. IEEE Xplore](https://ieeexplore.ieee.org/document/9507188) [[SCM'2021](https://ieeexplore.ieee.org/xpl/conhome/9507073/proceeding)] [EN]
+* [Georgii A. Kupriianov, Remir I. Solnitsev. On Software and Information Support for the Design and Operation of the Recycling Infrastructure. IEEE Xplore](https://ieeexplore.ieee.org/document/9507188) [[SCM'2021](https://ieeexplore.ieee.org/xpl/conhome/9507073/proceeding)] [EN]
 
 * [More](http://iehs.ru/en)
 
