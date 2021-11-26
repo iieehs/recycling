@@ -19,7 +19,7 @@ Papers issued since year of 2018
 #### 2021:
 
 * Куприянов Г.А. Сольницев Р.И.,  Вопросы автоматизации проектирования инфраструктуры рециклинга / SCM'2021: 
-[Смотреть здесь](https://github.com/iieehs/recycling/blob/main/papers/2021/SCM2021_3_Куприянов_ОПрограммном.pdf) / также: [SCM'2020 СПбГЭТУ](https://scm.etu.ru/assets/files/2021/scm21/papers/304-307.pdf) 
+[Смотреть здесь](https://github.com/iieehs/recycling/blob/main/papers/2021/SCM2021_3_Куприянов_ОПрограммном.pdf) / [SCM'2021 СПбГЭТУ](https://scm.etu.ru/assets/files/2021/scm21/papers/304-307.pdf) 
 
 #### 2020:
 
