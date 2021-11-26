@@ -4,11 +4,11 @@ Papers issued since year of 2018
 
 #### 2021
 
-* [Remir I. Solnitsev; Georgii A. Kupriianov. Computer-aided Design Issues for Recycling Infrastructure. IEEE Xplore](https://ieeexplore.ieee.org/document/9198788) [[SCM'2020](https://ieeexplore.ieee.org/xpl/conhome/9190004/proceeding)] [EN]
+* [Georgii A. Kupriianov, Remir I. Solnitsev. On Software and Information Support for the Design and Operation of the Recycling Infrastructure. IEEE Xplore](https://ieeexplore.ieee.org/document/9507188) [[SCM'2021](https://ieeexplore.ieee.org/xpl/conhome/9507073/proceeding)] [EN]
 
 #### 2020 
 
-* [Georgii A. Kupriianov, Remir I. Solnitsev. On Software and Information Support for the Design and Operation of the Recycling Infrastructure. IEEE Xplore](https://ieeexplore.ieee.org/document/9507188) [[SCM'2021](https://ieeexplore.ieee.org/xpl/conhome/9507073/proceeding)] [EN]
+* [Remir I. Solnitsev; Georgii A. Kupriianov. Computer-aided Design Issues for Recycling Infrastructure. IEEE Xplore](https://ieeexplore.ieee.org/document/9198788) [[SCM'2020](https://ieeexplore.ieee.org/xpl/conhome/9190004/proceeding)] [EN]
 
 * [More](http://iehs.ru/en)
 
